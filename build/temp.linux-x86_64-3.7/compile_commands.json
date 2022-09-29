@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/mnt/hgfs/font/diffvg-master/diffvg-master/build/temp.linux-x86_64-3.7",
+  "command": "/usr/bin/c++  -Ddiffvg_EXPORTS -I/home/ubuntu/anaconda3/envs/downgrade/include/python3.7m -I/mnt/hgfs/font/diffvg-master/diffvg-master/pybind11/include -I/mnt/hgfs/font/diffvg-master/diffvg-master/thrust  -DVERSION_INFO=\\\"0.0.1\\\" -O3  -fPIC   -Wall -g -O3 -fvisibility=hidden -Wno-unknown-pragmas -DTHRUST_DEVICE_SYSTEM=THRUST_DEVICE_SYSTEM_CPP -std=gnu++11 -o CMakeFiles/diffvg.dir/atomic.cpp.o -c /mnt/hgfs/font/diffvg-master/diffvg-master/atomic.cpp",
+  "file": "/mnt/hgfs/font/diffvg-master/diffvg-master/atomic.cpp"
+},
+{
+  "directory": "/mnt/hgfs/font/diffvg-master/diffvg-master/build/temp.linux-x86_64-3.7",
+  "command": "/usr/bin/c++  -Ddiffvg_EXPORTS -I/home/ubuntu/anaconda3/envs/downgrade/include/python3.7m -I/mnt/hgfs/font/diffvg-master/diffvg-master/pybind11/include -I/mnt/hgfs/font/diffvg-master/diffvg-master/thrust  -DVERSION_INFO=\\\"0.0.1\\\" -O3  -fPIC   -Wall -g -O3 -fvisibility=hidden -Wno-unknown-pragmas -DTHRUST_DEVICE_SYSTEM=THRUST_DEVICE_SYSTEM_CPP -std=gnu++11 -o CMakeFiles/diffvg.dir/color.cpp.o -c /mnt/hgfs/font/diffvg-master/diffvg-master/color.cpp",
+  "file": "/mnt/hgfs/font/diffvg-master/diffvg-master/color.cpp"
+},
+{
+  "directory": "/mnt/hgfs/font/diffvg-master/diffvg-master/build/temp.linux-x86_64-3.7",
+  "command": "/usr/bin/c++  -Ddiffvg_EXPORTS -I/home/ubuntu/anaconda3/envs/downgrade/include/python3.7m -I/mnt/hgfs/font/diffvg-master/diffvg-master/pybind11/include -I/mnt/hgfs/font/diffvg-master/diffvg-master/thrust  -DVERSION_INFO=\\\"0.0.1\\\" -O3  -fPIC   -Wall -g -O3 -fvisibility=hidden -Wno-unknown-pragmas -DTHRUST_DEVICE_SYSTEM=THRUST_DEVICE_SYSTEM_CPP -std=gnu++11 -o CMakeFiles/diffvg.dir/diffvg.cpp.o -c /mnt/hgfs/font/diffvg-master/diffvg-master/diffvg.cpp",
+  "file": "/mnt/hgfs/font/diffvg-master/diffvg-master/diffvg.cpp"
+},
+{
+  "directory": "/mnt/hgfs/font/diffvg-master/diffvg-master/build/temp.linux-x86_64-3.7",
+  "command": "/usr/bin/c++  -Ddiffvg_EXPORTS -I/home/ubuntu/anaconda3/envs/downgrade/include/python3.7m -I/mnt/hgfs/font/diffvg-master/diffvg-master/pybind11/include -I/mnt/hgfs/font/diffvg-master/diffvg-master/thrust  -DVERSION_INFO=\\\"0.0.1\\\" -O3  -fPIC   -Wall -g -O3 -fvisibility=hidden -Wno-unknown-pragmas -DTHRUST_DEVICE_SYSTEM=THRUST_DEVICE_SYSTEM_CPP -std=gnu++11 -o CMakeFiles/diffvg.dir/parallel.cpp.o -c /mnt/hgfs/font/diffvg-master/diffvg-master/parallel.cpp",
+  "file": "/mnt/hgfs/font/diffvg-master/diffvg-master/parallel.cpp"
+},
+{
+  "directory": "/mnt/hgfs/font/diffvg-master/diffvg-master/build/temp.linux-x86_64-3.7",
+  "command": "/usr/bin/c++  -Ddiffvg_EXPORTS -I/home/ubuntu/anaconda3/envs/downgrade/include/python3.7m -I/mnt/hgfs/font/diffvg-master/diffvg-master/pybind11/include -I/mnt/hgfs/font/diffvg-master/diffvg-master/thrust  -DVERSION_INFO=\\\"0.0.1\\\" -O3  -fPIC   -Wall -g -O3 -fvisibility=hidden -Wno-unknown-pragmas -DTHRUST_DEVICE_SYSTEM=THRUST_DEVICE_SYSTEM_CPP -std=gnu++11 -o CMakeFiles/diffvg.dir/scene.cpp.o -c /mnt/hgfs/font/diffvg-master/diffvg-master/scene.cpp",
+  "file": "/mnt/hgfs/font/diffvg-master/diffvg-master/scene.cpp"
+},
+{
+  "directory": "/mnt/hgfs/font/diffvg-master/diffvg-master/build/temp.linux-x86_64-3.7",
+  "command": "/usr/bin/c++  -Ddiffvg_EXPORTS -I/home/ubuntu/anaconda3/envs/downgrade/include/python3.7m -I/mnt/hgfs/font/diffvg-master/diffvg-master/pybind11/include -I/mnt/hgfs/font/diffvg-master/diffvg-master/thrust  -DVERSION_INFO=\\\"0.0.1\\\" -O3  -fPIC   -Wall -g -O3 -fvisibility=hidden -Wno-unknown-pragmas -DTHRUST_DEVICE_SYSTEM=THRUST_DEVICE_SYSTEM_CPP -std=gnu++11 -o CMakeFiles/diffvg.dir/shape.cpp.o -c /mnt/hgfs/font/diffvg-master/diffvg-master/shape.cpp",
+  "file": "/mnt/hgfs/font/diffvg-master/diffvg-master/shape.cpp"
+}
+]

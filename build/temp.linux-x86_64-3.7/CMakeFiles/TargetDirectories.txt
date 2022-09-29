@@ -1,0 +1,5 @@
+/mnt/hgfs/font/diffvg-master/diffvg-master/build/temp.linux-x86_64-3.7/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/font/diffvg-master/diffvg-master/build/temp.linux-x86_64-3.7/CMakeFiles/diffvg.dir
+/mnt/hgfs/font/diffvg-master/diffvg-master/build/temp.linux-x86_64-3.7/CMakeFiles/edit_cache.dir
+/mnt/hgfs/font/diffvg-master/diffvg-master/build/temp.linux-x86_64-3.7/pybind11/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/font/diffvg-master/diffvg-master/build/temp.linux-x86_64-3.7/pybind11/CMakeFiles/edit_cache.dir

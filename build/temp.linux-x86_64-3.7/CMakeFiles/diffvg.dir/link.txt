@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -DVERSION_INFO=\"0.0.1\" -O3   -shared  -o ../lib.linux-x86_64-3.7/diffvg.so CMakeFiles/diffvg.dir/atomic.cpp.o CMakeFiles/diffvg.dir/color.cpp.o CMakeFiles/diffvg.dir/diffvg.cpp.o CMakeFiles/diffvg.dir/parallel.cpp.o CMakeFiles/diffvg.dir/scene.cpp.o CMakeFiles/diffvg.dir/shape.cpp.o -Wl,-rpath,"\$ORIGIN" 

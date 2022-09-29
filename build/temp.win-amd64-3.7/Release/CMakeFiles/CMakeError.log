@@ -1,0 +1,172 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine for .NET Framework 16.7.0+b89cb5fde 版
+Copyright (C) Microsoft Corporation. 著作權所有，並保留一切權利。
+
+已經開始建置於 2022/4/21 上午 11:01:51。
+節點 1 (預設目標) 上的專案 "D:\font\diffvg-master\diffvg-master\build\temp.win-amd64-3.7\Release\CMakeFiles\3.18.2\CompilerIdC\CompilerIdC.vcxproj"。
+PrepareForBuild:
+  正在建立目錄 "Debug\"。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(473,5): warning MSB8003: 未定義 WindowsSDKDir 屬性。找不到某些建置工具。 [D:\font\diffvg-master\diffvg-master\build\temp.win-amd64-3.7\Release\CMakeFiles\3.18.2\CompilerIdC\CompilerIdC.vcxproj]
+  正在建立目錄 "Debug\CompilerIdC.tlog\"。
+InitializeBuildStatus:
+  由於指定了 "AlwaysCreate"，因此正在建立 "Debug\CompilerIdC.tlog\unsuccessfulbuild"。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\bin\HostX64\x64\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TC /FC /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\bin\HostX64\x64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X64 Debug\CMakeCCompilerId.obj
+LINK : fatal error LNK1181: 無法開啟輸入檔 'kernel32.lib' [D:\font\diffvg-master\diffvg-master\build\temp.win-amd64-3.7\Release\CMakeFiles\3.18.2\CompilerIdC\CompilerIdC.vcxproj]
+專案 "D:\font\diffvg-master\diffvg-master\build\temp.win-amd64-3.7\Release\CMakeFiles\3.18.2\CompilerIdC\CompilerIdC.vcxproj" (預設目標) 建置完成 -- 失敗。
+
+建置失敗。
+
+"D:\font\diffvg-master\diffvg-master\build\temp.win-amd64-3.7\Release\CMakeFiles\3.18.2\CompilerIdC\CompilerIdC.vcxproj" (預設目標) (1) ->
+(PrepareForBuild 目標) -> 
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(473,5): warning MSB8003: 未定義 WindowsSDKDir 屬性。找不到某些建置工具。 [D:\font\diffvg-master\diffvg-master\build\temp.win-amd64-3.7\Release\CMakeFiles\3.18.2\CompilerIdC\CompilerIdC.vcxproj]
+
+
+"D:\font\diffvg-master\diffvg-master\build\temp.win-amd64-3.7\Release\CMakeFiles\3.18.2\CompilerIdC\CompilerIdC.vcxproj" (預設目標) (1) ->
+(Link 目標) -> 
+  LINK : fatal error LNK1181: 無法開啟輸入檔 'kernel32.lib' [D:\font\diffvg-master\diffvg-master\build\temp.win-amd64-3.7\Release\CMakeFiles\3.18.2\CompilerIdC\CompilerIdC.vcxproj]
+
+    1 個警告
+    1 個錯誤
+
+經過時間 00:00:03.96
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine for .NET Framework 16.7.0+b89cb5fde 版
+Copyright (C) Microsoft Corporation. 著作權所有，並保留一切權利。
+
+已經開始建置於 2022/4/21 上午 11:01:55。
+節點 1 (預設目標) 上的專案 "D:\font\diffvg-master\diffvg-master\build\temp.win-amd64-3.7\Release\CMakeFiles\3.18.2\CompilerIdC\CompilerIdC.vcxproj"。
+PrepareForBuild:
+  正在建立目錄 "Debug\"。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(473,5): warning MSB8003: 未定義 WindowsSDKDir 屬性。找不到某些建置工具。 [D:\font\diffvg-master\diffvg-master\build\temp.win-amd64-3.7\Release\CMakeFiles\3.18.2\CompilerIdC\CompilerIdC.vcxproj]
+  正在建立目錄 "Debug\CompilerIdC.tlog\"。
+InitializeBuildStatus:
+  由於指定了 "AlwaysCreate"，因此正在建立 "Debug\CompilerIdC.tlog\unsuccessfulbuild"。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\bin\HostX64\x64\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TC /FC /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\bin\HostX64\x64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X64 Debug\CMakeCCompilerId.obj
+LINK : fatal error LNK1181: 無法開啟輸入檔 'kernel32.lib' [D:\font\diffvg-master\diffvg-master\build\temp.win-amd64-3.7\Release\CMakeFiles\3.18.2\CompilerIdC\CompilerIdC.vcxproj]
+專案 "D:\font\diffvg-master\diffvg-master\build\temp.win-amd64-3.7\Release\CMakeFiles\3.18.2\CompilerIdC\CompilerIdC.vcxproj" (預設目標) 建置完成 -- 失敗。
+
+建置失敗。
+
+"D:\font\diffvg-master\diffvg-master\build\temp.win-amd64-3.7\Release\CMakeFiles\3.18.2\CompilerIdC\CompilerIdC.vcxproj" (預設目標) (1) ->
+(PrepareForBuild 目標) -> 
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(473,5): warning MSB8003: 未定義 WindowsSDKDir 屬性。找不到某些建置工具。 [D:\font\diffvg-master\diffvg-master\build\temp.win-amd64-3.7\Release\CMakeFiles\3.18.2\CompilerIdC\CompilerIdC.vcxproj]
+
+
+"D:\font\diffvg-master\diffvg-master\build\temp.win-amd64-3.7\Release\CMakeFiles\3.18.2\CompilerIdC\CompilerIdC.vcxproj" (預設目標) (1) ->
+(Link 目標) -> 
+  LINK : fatal error LNK1181: 無法開啟輸入檔 'kernel32.lib' [D:\font\diffvg-master\diffvg-master\build\temp.win-amd64-3.7\Release\CMakeFiles\3.18.2\CompilerIdC\CompilerIdC.vcxproj]
+
+    1 個警告
+    1 個錯誤
+
+經過時間 00:00:00.96
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler:  
+Build flags: ;-DVERSION_INFO=\"0.0.1\"
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine for .NET Framework 16.7.0+b89cb5fde 版
+Copyright (C) Microsoft Corporation. 著作權所有，並保留一切權利。
+
+已經開始建置於 2022/4/21 上午 11:01:56。
+節點 1 (預設目標) 上的專案 "D:\font\diffvg-master\diffvg-master\build\temp.win-amd64-3.7\Release\CMakeFiles\3.18.2\CompilerIdCXX\CompilerIdCXX.vcxproj"。
+PrepareForBuild:
+  正在建立目錄 "Debug\"。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(473,5): warning MSB8003: 未定義 WindowsSDKDir 屬性。找不到某些建置工具。 [D:\font\diffvg-master\diffvg-master\build\temp.win-amd64-3.7\Release\CMakeFiles\3.18.2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+  正在建立目錄 "Debug\CompilerIdCXX.tlog\"。
+InitializeBuildStatus:
+  由於指定了 "AlwaysCreate"，因此正在建立 "Debug\CompilerIdCXX.tlog\unsuccessfulbuild"。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\bin\HostX64\x64\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TP /FC /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\bin\HostX64\x64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X64 Debug\CMakeCXXCompilerId.obj
+LINK : fatal error LNK1181: 無法開啟輸入檔 'kernel32.lib' [D:\font\diffvg-master\diffvg-master\build\temp.win-amd64-3.7\Release\CMakeFiles\3.18.2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+專案 "D:\font\diffvg-master\diffvg-master\build\temp.win-amd64-3.7\Release\CMakeFiles\3.18.2\CompilerIdCXX\CompilerIdCXX.vcxproj" (預設目標) 建置完成 -- 失敗。
+
+建置失敗。
+
+"D:\font\diffvg-master\diffvg-master\build\temp.win-amd64-3.7\Release\CMakeFiles\3.18.2\CompilerIdCXX\CompilerIdCXX.vcxproj" (預設目標) (1) ->
+(PrepareForBuild 目標) -> 
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(473,5): warning MSB8003: 未定義 WindowsSDKDir 屬性。找不到某些建置工具。 [D:\font\diffvg-master\diffvg-master\build\temp.win-amd64-3.7\Release\CMakeFiles\3.18.2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+
+
+"D:\font\diffvg-master\diffvg-master\build\temp.win-amd64-3.7\Release\CMakeFiles\3.18.2\CompilerIdCXX\CompilerIdCXX.vcxproj" (預設目標) (1) ->
+(Link 目標) -> 
+  LINK : fatal error LNK1181: 無法開啟輸入檔 'kernel32.lib' [D:\font\diffvg-master\diffvg-master\build\temp.win-amd64-3.7\Release\CMakeFiles\3.18.2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+
+    1 個警告
+    1 個錯誤
+
+經過時間 00:00:01.04
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine for .NET Framework 16.7.0+b89cb5fde 版
+Copyright (C) Microsoft Corporation. 著作權所有，並保留一切權利。
+
+已經開始建置於 2022/4/21 上午 11:01:58。
+節點 1 (預設目標) 上的專案 "D:\font\diffvg-master\diffvg-master\build\temp.win-amd64-3.7\Release\CMakeFiles\3.18.2\CompilerIdCXX\CompilerIdCXX.vcxproj"。
+PrepareForBuild:
+  正在建立目錄 "Debug\"。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(473,5): warning MSB8003: 未定義 WindowsSDKDir 屬性。找不到某些建置工具。 [D:\font\diffvg-master\diffvg-master\build\temp.win-amd64-3.7\Release\CMakeFiles\3.18.2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+  正在建立目錄 "Debug\CompilerIdCXX.tlog\"。
+InitializeBuildStatus:
+  由於指定了 "AlwaysCreate"，因此正在建立 "Debug\CompilerIdCXX.tlog\unsuccessfulbuild"。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\bin\HostX64\x64\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TP /FC /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\bin\HostX64\x64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X64 Debug\CMakeCXXCompilerId.obj
+LINK : fatal error LNK1181: 無法開啟輸入檔 'kernel32.lib' [D:\font\diffvg-master\diffvg-master\build\temp.win-amd64-3.7\Release\CMakeFiles\3.18.2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+專案 "D:\font\diffvg-master\diffvg-master\build\temp.win-amd64-3.7\Release\CMakeFiles\3.18.2\CompilerIdCXX\CompilerIdCXX.vcxproj" (預設目標) 建置完成 -- 失敗。
+
+建置失敗。
+
+"D:\font\diffvg-master\diffvg-master\build\temp.win-amd64-3.7\Release\CMakeFiles\3.18.2\CompilerIdCXX\CompilerIdCXX.vcxproj" (預設目標) (1) ->
+(PrepareForBuild 目標) -> 
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(473,5): warning MSB8003: 未定義 WindowsSDKDir 屬性。找不到某些建置工具。 [D:\font\diffvg-master\diffvg-master\build\temp.win-amd64-3.7\Release\CMakeFiles\3.18.2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+
+
+"D:\font\diffvg-master\diffvg-master\build\temp.win-amd64-3.7\Release\CMakeFiles\3.18.2\CompilerIdCXX\CompilerIdCXX.vcxproj" (預設目標) (1) ->
+(Link 目標) -> 
+  LINK : fatal error LNK1181: 無法開啟輸入檔 'kernel32.lib' [D:\font\diffvg-master\diffvg-master\build\temp.win-amd64-3.7\Release\CMakeFiles\3.18.2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+
+    1 個警告
+    1 個錯誤
+
+經過時間 00:00:00.82
+
+
